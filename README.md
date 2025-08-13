@@ -13,8 +13,7 @@ Helper_AI_Agent exists to:
 
 Whether you’re automating a repetitive task, building a chatbot, or processing large datasets, Helper_AI_Agent gives you the structure to get it done quickly and maintainably.
 
-## Quick Start
-
+## 🤝 Contributing
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/Helper_AI_Agent.git
